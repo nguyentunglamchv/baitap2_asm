@@ -1,0 +1,2 @@
+C:\Users\AS\source\repos\baitap2_asm\Debug\baitap2_asm.exe
+C:\Users\AS\source\repos\baitap2_asm\Debug\baitap2_asm.pdb
